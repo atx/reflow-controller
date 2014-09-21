@@ -1,0 +1,6 @@
+[submodule "thirdparty/kicad-library"]
+	path = thirdparty/kicad-library
+	url = https://github.com/KiCad/kicad-library
+[submodule "thirdparty/ChibiOS-RT"]
+	path = thirdparty/ChibiOS-RT
+	url = https://github.com/ChibiOS/ChibiOS-RT.git

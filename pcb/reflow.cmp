@@ -1,0 +1,367 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Thu 14 Aug 2014 02:08:40 PM CEST
+
+BeginCmp
+TimeStamp = /53E3E7FB;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E3EF27;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E27AB0;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E27AFD;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E265DF;
+Reference = C5;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2654B;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E265B2;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2CA41;
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2F5FC;
+Reference = C11;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2DC33;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2DC88;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2DCCB;
+Reference = C15;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2A09A;
+Reference = C17;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E296D4;
+Reference = C18;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4A8FD;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4AC82;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2E8CD;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9C60D;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2A9BF;
+Reference = FB1;
+ValeurCmp = FERRITE_BEAD;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E27347;
+Reference = H1;
+ValeurCmp = J0026D21BNL;
+IdModule  = J0026D21BNL:J0026D21BNL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2C2E3;
+Reference = J1;
+ValeurCmp = TC-K;
+IdModule  = Dangerous_Prototypes:dp_devices-TERMINAL_BLOCK_2P_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2BBF8;
+Reference = J2;
+ValeurCmp = RELAY-TOP;
+IdModule  = Dangerous_Prototypes:dp_devices-TERMINAL_BLOCK_2P_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E92FB0;
+Reference = J3;
+ValeurCmp = RELAY-BOT;
+IdModule  = Dangerous_Prototypes:dp_devices-TERMINAL_BLOCK_2P_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53ECB2A0;
+Reference = J4;
+ValeurCmp = PWR;
+IdModule  = Dangerous_Prototypes:dp_devices-TERMINAL_BLOCK_2P_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E44FFC;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E96C85;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Connect:SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EBF17D;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = Connect:SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA36F3;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3E84;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3ED9;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EA3F2D;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4059D;
+Reference = R1;
+ValeurCmp = 1k8;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E405E4;
+Reference = R2;
+ValeurCmp = 1k8;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9711C;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4B3C0;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4B708;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2D671;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9C5B7;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E29FB9;
+Reference = R8;
+ValeurCmp = 49.9 1%;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E29CE6;
+Reference = R9;
+ValeurCmp = 49.9 1%;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2956E;
+Reference = R10;
+ValeurCmp = 49.9 1%;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E29505;
+Reference = R11;
+ValeurCmp = 49.9 1%;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E281F5;
+Reference = R12;
+ValeurCmp = 120;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2815E;
+Reference = R13;
+ValeurCmp = 120;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2F3C0;
+Reference = R14;
+ValeurCmp = 2k32;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9DD7C;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = Discret:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2BC2B;
+Reference = U1;
+ValeurCmp = MAX6675;
+IdModule  = Dangerous_Prototypes:dp_devices-SO-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E277FE;
+Reference = U2;
+ValeurCmp = ENC28J60-SSOP;
+IdModule  = Oshec_ENC28J60:microchip-enc28j60-SSOP28;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E3DCE1;
+Reference = U3;
+ValeurCmp = REG1117;
+IdModule  = Oshec_Burr_Brown_3:burr-brown-3-SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E2642D;
+Reference = U4;
+ValeurCmp = STM32F030C8T;
+IdModule  = Housings_QFP:lqfp-48;
+EndCmp
+
+BeginCmp
+TimeStamp = /53EC0D7C;
+Reference = U5;
+ValeurCmp = LM75;
+IdModule  = Dangerous_Prototypes:dp_devices-SO-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E27A2A;
+Reference = X1;
+ValeurCmp = 25MHz;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
+EndCmp
+
+EndListe

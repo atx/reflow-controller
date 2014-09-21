@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Dangerous_Prototypes)(type Legacy)(uri ${KIPRJMOD}/libs/dp_devices.mod)(options "")(descr ""))
+  (lib (name J0026D21BNL)(type Legacy)(uri ${KIPRJMOD}/libs/J0026D21BNL.mod)(options "")(descr ""))
+  (lib (name Oshec_Burr_Brown_3)(type Legacy)(uri ${KIPRJMOD}/libs/oshec-burr-brown-3.mod)(options "")(descr ""))
+  (lib (name Oshec_I2C)(type Legacy)(uri ${KIPRJMOD}/libs/oshec-i2c.mod)(options "")(descr ""))
+  (lib (name Oshec_ENC28J60)(type Legacy)(uri ${KIPRJMOD}/libs/oshec-microchip-enc28j60.mod)(options "")(descr ""))
+)

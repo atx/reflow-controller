@@ -1,0 +1,32 @@
+<html>
+<head>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<link href="ui.css" rel="stylesheet">
+<script src="ui.js" charset="utf-8"></script>
+<title>Reflow Oven</title>
+</head>
+<body>
+<table id="wrap">
+<tr valign="top">
+	<td id="wrap-control" valign="top">
+		<h3>Status</h3>
+		<table id="status" valign="top">
+		</table>
+		<h3>Control</h3>
+		<button id="button-start" type="button" class="btn btn-success">Start</button>
+	</td>
+	<td id="wrap-chart">
+		<h3>Temperature</h3>
+	</td>
+	<td id="wrap-profile">
+		<h3>Profile</h3>
+		<textarea id="profile-input" class="form-control" rows="6"></textarea>
+	</td>
+</tr>
+</table>
+
+</body>
+</html>

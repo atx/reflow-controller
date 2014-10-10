@@ -1,0 +1,4 @@
+HTTP/1.1 200
+Content-Type: text/css
+
+#wrap{width:85%;margin:auto;margin-top:65px;}#wrap-control{width:20%;padding:3px 10px 3px 10px;}#wrap-chart{width:70%;height:350px;}#wrap-profile{width:20%;}#status{width:93%;}#status .field-name{text-align:left;}#status .field-value{text-align:right;}.btn{margin:3px;width:100%;}#wrap-profile{padding:3px 10px 3px 10px;}#profile-input{padding:7px;resize:none;margin:3px;width:100%;}#chart .path{fill:none;stroke:green;}#chart .path-limit{stroke:darkgray;stroke-dasharray:5,5;}#chart{padding:45px;}#chart .axis .domain{fill:none;stroke:black;width:1px;}
